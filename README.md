@@ -1,6 +1,6 @@
 # Data Science
 ### Python Notebooks:
-1.Gradient Descent
+1.Gradient Descent/n
 2.Linear Regression
 3.Logistic Regression
 4.K Nearest Neighbours
